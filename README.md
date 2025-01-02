@@ -1,0 +1,1 @@
+### Simple example of net/http/httptest for webapp test cases creation
